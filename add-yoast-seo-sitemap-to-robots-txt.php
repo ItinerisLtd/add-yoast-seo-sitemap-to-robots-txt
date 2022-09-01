@@ -3,7 +3,7 @@
  * Plugin Name:     Add Yoast SEO Sitemap to robots.txt
  * Plugin URI:      https://itinerisltd.github.io/add-yoast-seo-sitemap-to-robots-txt/
  * Description:     Add Yoast SEO Sitemap to robots.txt
- * Version:         0.1.0
+ * Version:         0.1.1
  * Author:          Itineris Limited
  * Author URI:      https://www.itineris.co.uk/
  * Text Domain:     add-yoast-seo-sitemap-to-robots-txt

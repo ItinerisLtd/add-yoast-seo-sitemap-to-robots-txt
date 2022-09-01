@@ -24,6 +24,12 @@
             "email": "tangrufus@gmail.com",
             "homepage": "https://typist.tech/",
             "role": "Developer"
+        },
+        {
+            "name": "Lee Hanbury-Pickett",
+            "email": "lee.hanbury@gmail.com",
+            "homepage": "https://github.com/codepuncher",
+            "role": "Developer"
         }
     ],
     "require": {
